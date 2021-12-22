@@ -12,3 +12,4 @@ Criação de uma interface para utilizar o neovim para programação
 - GruvBox
 - Vim-airline
 - Vim-airline-themes
+- Vim-javascript
